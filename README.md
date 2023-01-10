@@ -30,7 +30,7 @@ Aplicação web que é um blog fictício utilizando ReactJS e Firebase.
 
 - Front-end feito com Context API e React Hooks;
 - Back-end e sistema de autenticação projetado com o Firebase;
-- Funcionalidades de inserção e exclusão de conteúdo com foto, título e hashtag. Funcionalidade de pesquisa dos posts por hashtag.
+- Funcionalidades de inserção e exclusão de conteúdo com foto, título e hashtag. Funcionalidade de pesquisa dos posts por hashtag;
 
 ## 📲 Contato
 
